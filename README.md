@@ -11,6 +11,5 @@ In some datasets the whole text is labeled such as in sentiment classification. 
 - İsra Nur Alperen
 - Ömer Kaya
 - Rümeysa Öztürk
-- Şükriye Soyer
 - Lokman Altın
 - Murat Can Ganiz
